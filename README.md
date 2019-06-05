@@ -1,10 +1,10 @@
 # ProxyList
- * Proxy List python dili ile yazılmış bir programdır.
+ * Proxy List is a program written in python language.
 
- * Sade ve Hızlı bir yapısı vardır.
+ * It has a simple and fast structure.
 
 ![Windows Tested](https://i.ibb.co/vJH7x50/Windows-Tested.png "Tested")
 
-# Kullanım 
+## Use
 
 python proxylist.py

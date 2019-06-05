@@ -3,7 +3,7 @@
 
  * Sade ve Hızlı bir yapısı vardır.
 
-![Kali Linux Tested](http://www.imgim.com/screenshotfrom2018-01-2623-17-52.png "Tested")
+![Kali Linux Tested](https://i.hizliresim.com/M1lara.png "Tested")
 
 # Kullanım 
 

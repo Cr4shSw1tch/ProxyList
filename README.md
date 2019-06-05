@@ -1,5 +1,7 @@
 # ProxyList
-![Stable](https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg)
+![Tested](https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg)
+![Stable](https://img.shields.io/badge/Release-Stable-orange.svg)
+
  * **Proxy List is a program written in *python* language.**
 
  * **It has a *simple* and *fast* structure.**

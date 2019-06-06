@@ -12,4 +12,4 @@
 
 ## Use
 
-`python proxylist.py`
+`python3 proxylist.py`

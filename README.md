@@ -8,7 +8,7 @@
 
  * **It has a *simple* and *fast* structure.**
 
-[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/8UpUVOVqbzFh1DixfarGBD1Ur)
+[![asciicast](https://i.ibb.co/0j3T4sQ/ascii.png)](https://asciinema.org/a/8UpUVOVqbzFh1DixfarGBD1Ur)
 
 ## Use
 
